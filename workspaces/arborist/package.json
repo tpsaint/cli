@@ -41,11 +41,11 @@
   "devDependencies": {
     "@npmcli/eslint-config": "^5.0.1",
     "@npmcli/mock-registry": "^1.0.0",
-    "@npmcli/template-oss": "4.23.6",
+    "@npmcli/template-oss": "4.29.0",
     "benchmark": "^2.1.4",
     "minify-registry-metadata": "^4.0.0",
     "nock": "^13.3.3",
-    "tap": "^16.3.8",
+    "tap": "^18.0.0",
     "tar-stream": "^3.0.0",
     "tcompare": "^5.0.6"
   },
